@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 llm-morality/
 ├── data/
-│   └── test/                        # Public MMLU benchmark files (e.g., abstract_algebra_test.csv)
+│   └── test/                        # Public MMLU benchmark files
 │                                    # (Probing_data.json is excluded)
 ├── prompts/
 │   ├── dit_user_prompt_user_prompt.py     # User prompt template for DIT
@@ -41,6 +41,11 @@ llm-morality/
 └── results_mmlu/                  # MMLU evaluation outputs 
 ```
 
-**Note:** The file `data/Probing_data.json` is excluded from this repository due to licensing restrictions.  
-To run DIT experiments, you must either create this file manually or request access to the official dilemmas in the expected format.
+**Note:** 
+**Note:**
 
+- **MMLU benchmark files (CSV)** are excluded from this repository due to licensing restrictions.  
+  To run MMLU experiments, please download the official test files from the [MMLU GitHub repository](https://github.com/hendrycks/test) and place them under `data/test/`.
+
+- The file `data/Probing_data.json` is also excluded for licensing reasons.  
+  To run DIT experiments, you must either create this file manually or request access to the official dilemmas in the expected format.
