@@ -1,0 +1,34 @@
+{
+    "Pre-conventional": {
+        "moral_level": "Pre-conventional morality",
+        "characteristics": [
+            "Individuals at the pre-conventional level interpret good and evil, right and wrong, in terms of the physical power of those who prescribe the consequences of physical or hedonic actions, such as punishment and reward, and the rules and signs.",
+            "Individuals seek to avoid punishment and make moral decisions based on fear of consequences and self-interest. In other words, punishment and punishment become the criteria for judgment, and intentionally perform moral acts to avoid punishment.",
+            "Focusing on one's own needs and interests while recognizing that others may have similar needs. Moral judgments at this stage are influenced by principles such as reciprocity (“If you help me, I will help you”). In other words, whether or not one can satisfy one's desires becomes the standard for moral judgment."
+        ]
+    },
+    "Conventional": {
+        "moral_level": "Conventional morality",
+        "characteristics": [
+            "At the level of convention, it becomes worthwhile to uphold the expectations of the family and the collective nation, regardless of the immediate and visible consequences. In other words, at this stage, it means the attitude of actively protecting, supporting, and justifying social expectations and order, thinking that it is right, and identifying with others.",
+            "Individuals seek approval and conform to social and religious norms, and moral decisions are made to maintain positive relationships and avoid situations of disapproval. In other words, moral behavior for interpersonal harmony is maintaining good relationships with others and behaving according to expectations.",
+            "Individuals focus on laws, rules, and authority figures, and their moral reasoning focuses on maintaining social order and promoting the common good. In other words, right behavior means performing one's duties while maintaining social order."
+        ]
+    },
+    "Post-conventional": {
+        "moral_level": "Post-conventional morality",
+        "characteristics": [
+            "Individuals at the post-conventional level think in terms of principles that society and the self must entrust, and this 'principled thinking' is not only concerned with the justification of laws and rules, but also explores the most basic principles that can be applied to all laws. It has thin characteristics.",
+            "Individuals recognize that different groups may have different moral perspectives and make decisions based on principles of fairness, justice, and individual rights that may conflict with social norms or laws. In other words, it is believed that moral law and order as a social contract spirit are not necessarily right, but can be changed when an agreement is reached depending on social usefulness. There is a view that moral obligations arise based on the voluntary cooperation of members of society, and a view that is more interested in the process of choosing a law that maximizes welfare from the perspective of the will of the majority.",
+            "Individuals develop their own moral principles based on universal ethical values, and they act according to personal ethical codes that transcend social rules and laws, and these principles are often consistent with concepts of justice, equality, and human rights. In other words, conscientious actions chosen by oneself according to moral principles are considered right actions."
+        ]
+    },
+    "None": {
+        "moral_level": "None (Morality-Free Baseline)",
+        "characteristics": [
+          "Possesses no sense, awareness, or concept of morality—entirely unfamiliar with notions of right or wrong, good or bad, or any form of ethical or emotional consideration.",
+          "Responds to input based solely on surface-level patterns, without invoking meaning, values, or moral reasoning.",
+          "Provides outputs without reflecting judgment, concern for others, or any form of normative thinking."
+        ]
+      }
+}
