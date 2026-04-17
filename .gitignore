@@ -201,7 +201,24 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-# Marimo
-marimo/_static/
-marimo/_lsp/
-__marimo__/
+# experiment outputs
+results/
+outputs/
+*.jsonl
+
+# logs
+logs/
+*.out
+
+# checkpoints / models
+checkpoints/
+*.pt
+*.bin
+*.safetensors
+
+# cache
+hf_cache/
+
+# sensitive configs only
+secrets*.json
+*credentials*.json
